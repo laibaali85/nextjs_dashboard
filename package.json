@@ -33,5 +33,12 @@
       "@types/react": "npm:types-react@19.0.0-rc.1",
       "@types/react-dom": "npm:types-react-dom@19.0.0-rc.1"
     }
-  }
+  },
+  "name": "nextjs-dashboard",
+  "version": "1.0.0",
+  "description": "This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
